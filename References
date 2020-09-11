@@ -1,2 +1,19 @@
 Lesson 2 quizz 19 _ GaussianNB Deployment on Terrain Data 
   https://stackoverflow.com/questions/32961571/python-examples-on-udacity-broken
+
+**How to make mini quizzes on mac**
+#Python 2 is needed, as well as an old version, not any longer supported of 
+#Create a new conda environment in python 2.7 
+#command in anaconda prompt
+conda create --name <envname> python=2.7
+
+pip install scikit-learn
+
+pip install nltk
+
+#"downgrade" sckit-learn with command
+conda install -c free scikit-learn=0.18.0
+
+#to work on py queries
+conda activate <envname>
+spyder
