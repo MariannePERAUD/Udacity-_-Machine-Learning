@@ -22,6 +22,12 @@ conda install -c free scikit-learn=0.18.0
 conda activate <envname>
 spyder
 
+**sklearn documentation**
+https://scikit-learn.org/stable/modules/classes.html
+
+**kernels (noyaux) et paramères C et gamma**
+http://www.math.univ-toulouse.fr/~agarivie/Telecom/PESTO/TP_SVM_Pesto.pdf
+
 **Sources stackoverflow et github sur ce cours et ses pb**
 https://stackoverflow.com/questions/53978901/importerror-cannot-import-name-cross-validation-from-sklearn 
 https://github.com/udacity/ud120-projects/issues/46
