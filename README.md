@@ -2,4 +2,5 @@
 
 Contains 
 References : list of references and tricks, for "plumbing" + various Githubs
+nb_author_id.py : code for lesson 2 Naive Bayes
 
